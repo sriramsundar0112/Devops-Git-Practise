@@ -29,3 +29,6 @@ cars=["Suzuki","Tata","Hyundai"]
 bikes=["Yamaha","Hero","TVS"]
 cars.extend(bikes)
 print(cars)
+
+# To find the number of items in the list
+print(len(cars))
